@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/OCA/stock-logistics-barcode.svg?branch=10.0)](https://travis-ci.org/OCA/stock-logistics-barcode)
 [![Coverage Status](https://img.shields.io/coveralls/OCA/stock-logistics-barcode.svg)](https://coveralls.io/r/OCA/stock-logistics-barcode?branch=10.0)
 
-Odoo Stock Logistic Barcode
+Odoo Stock Logistic Barcode [http://www.www888.org](http://www.www888.org)
 ===========================
 
 
